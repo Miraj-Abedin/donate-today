@@ -216,18 +216,6 @@ hr {
     text-align: center;
 }
 
-/* .our-another-task {
-    background-image: url(images/sunamgonj.jpg);
-    width: 250px;
-    height: 250px;
-    background-repeat: no-repeat;
-    text-decoration: none;
-    margin: 2% 2%;
-    font-weight: bold;
-    color: white;
-    text-align: center;
-} */
-
 .more-work {
     display: flex;
     justify-content: center;
