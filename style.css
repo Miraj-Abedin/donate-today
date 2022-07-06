@@ -98,8 +98,15 @@ body {
 }
 
 #small {
+    display: block;
+    width: 400px;
+    height: 25px;
+    margin: auto;
+    margin-bottom: 20px;
+    text-align: center;
     color: #B3B3B3;
-    padding: 0;
+    border: none;
+    border-bottom: 2px solid #B3B3B3;
 }
 
 hr {
@@ -145,7 +152,7 @@ hr {
 }
 
 .update-container {
-    margin-top: 100px;
+    margin-top: 50px;
     margin-left: 5%;
     margin-right: 5%;
 }
@@ -195,8 +202,8 @@ hr {
     background-color: black;
     color: white;
     margin-top: 100px;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 2px;
+    padding-bottom: 6px;
 }
 
 #footer-head {
